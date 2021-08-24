@@ -17,3 +17,4 @@ My technical documents
 ## Python
 - [Python 函式基本教學](https://github.com/BingFengHung/OpenDocuments/blob/main/Python/Python%20%E5%87%BD%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%95%99%E5%AD%B8/Python%20%E5%87%BD%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%95%99%E5%AD%B8.md)
 ## Others
+- [工作排程器出現 MMC 解決辦法](https://github.com/BingFengHung/OpenDocuments/blob/main/Others/%E5%B7%A5%E4%BD%9C%E6%8E%92%E7%A8%8B%E5%87%BA%E7%8F%BE%20MMC%20%E8%A7%A3%E6%B1%BA%E8%BE%A6%E6%B3%95/%E5%B7%A5%E4%BD%9C%E6%8E%92%E7%A8%8B%E5%87%BA%E7%8F%BE%20MMC%20%E8%A7%A3%E6%B1%BA%E8%BE%A6%E6%B3%95.md)
