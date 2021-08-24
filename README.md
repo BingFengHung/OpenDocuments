@@ -15,5 +15,5 @@ My technical documents
 ## JavaScript
 - [JavaScript 建立函式預設值](https://github.com/BingFengHung/OpenDocuments/blob/main/JavaScript/JavaScript%20%E5%BB%BA%E7%AB%8B%E5%87%BD%E5%BC%8F%E9%A0%90%E8%A8%AD%E5%80%BC/JavaScript%20%E5%BB%BA%E7%AB%8B%E5%87%BD%E5%BC%8F%E9%A0%90%E8%A8%AD%E5%80%BC.md)
 ## Python
-
+- [Python 函式基本教學](https://github.com/BingFengHung/OpenDocuments/blob/main/Python/Python%20%E5%87%BD%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%95%99%E5%AD%B8/Python%20%E5%87%BD%E5%BC%8F%E5%9F%BA%E6%9C%AC%E6%95%99%E5%AD%B8.md)
 ## Others
