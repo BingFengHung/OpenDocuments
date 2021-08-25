@@ -19,3 +19,5 @@ My technical documents
 - [Python Naming Convention](https://github.com/BingFengHung/OpenDocuments/blob/main/Python/Python%20Naming%20Convention/Python%20Naming%20Convention.md)
 ## Others
 - [工作排程器出現 MMC 解決辦法](https://github.com/BingFengHung/OpenDocuments/blob/main/Others/%E5%B7%A5%E4%BD%9C%E6%8E%92%E7%A8%8B%E5%87%BA%E7%8F%BE%20MMC%20%E8%A7%A3%E6%B1%BA%E8%BE%A6%E6%B3%95/%E5%B7%A5%E4%BD%9C%E6%8E%92%E7%A8%8B%E5%87%BA%E7%8F%BE%20MMC%20%E8%A7%A3%E6%B1%BA%E8%BE%A6%E6%B3%95.md)
+- [Visual Studio Code 右鍵開啟程式設定](https://github.com/BingFengHung/OpenDocuments/blob/main/Others/Visual%20Studio%20Code%20%E5%8F%B3%E9%8D%B5%E9%96%8B%E5%95%9F%E7%A8%8B%E5%BC%8F%E8%A8%AD%E5%AE%9A/Visual%20Studio%20Code%20%E5%8F%B3%E9%8D%B5%E9%96%8B%E5%95%9F%E7%A8%8B%E5%BC%8F%E8%A8%AD%E5%AE%9A.md)
+- [Visual Studio 重試次數超過 10 次。作業失敗](https://github.com/BingFengHung/OpenDocuments/blob/main/Others/Visual%20Studio/Visual%20Studio%20%E9%87%8D%E8%A9%A6%E6%AC%A1%E6%95%B8%E8%B6%85%E9%81%8E%2010%20%E6%AC%A1%E3%80%82%E4%BD%9C%E6%A5%AD%E5%A4%B1%E6%95%97/Visual%20Studio%20%E9%87%8D%E8%A9%A6%E6%AC%A1%E6%95%B8%E8%B6%85%E9%81%8E%2010%20%E6%AC%A1%E3%80%82%E4%BD%9C%E6%A5%AD%E5%A4%B1%E6%95%97.md)
