@@ -37,3 +37,9 @@ public static string CommandOutput(string commandText) {
 	return strOutput;
 }
 ```
+
+首先，使用 System.Diagnostics.Process 的類別來叫起一支 cmd，然後這個類別裡面，需要設定 StartInfo.RedirectStandardOutput 設為 true，為什麼要設定為 true 呢? 來看看 DotNetPerls 對此參數的解釋 \[RedirectStandardOutput eliminates the need for output files. It allows us to use a console program direcrtly inside a C# program - without having to rely on output files being written to the disk.]
+
+簡單來說，在處理 cmd 輸出的字串時，不需要另外存成一個檔案，再進行操作，直接可以在直行的城市獲取結果進行所需的字串操作。
+
+執行程式的時候，該程式會呼叫 cmd 起來然後就會開始記錄此過程中所有再 cmd 中出現的字串，最後在使用一個StandardOutput.ReadToEnd() 的函式，可以得到 cmd 執行的所有結果了。
