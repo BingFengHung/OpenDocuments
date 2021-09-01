@@ -12,9 +12,9 @@ My technical documents
 - [C# 取得執行中命令提示字元的字串內容](https://github.com/BingFengHung/OpenDocuments/blob/main/.NET/C%23/C%23%20%E5%8F%96%E5%BE%97%E5%9F%B7%E8%A1%8C%E4%B8%AD%E5%91%BD%E4%BB%A4%E6%8F%90%E7%A4%BA%E5%AD%97%E5%85%83%E7%9A%84%E5%AD%97%E4%B8%B2%E5%85%A7%E5%AE%B9/C%23%20%E5%8F%96%E5%BE%97%E5%9F%B7%E8%A1%8C%E4%B8%AD%E5%91%BD%E4%BB%A4%E6%8F%90%E7%A4%BA%E5%AD%97%E5%85%83%E7%9A%84%E5%AD%97%E4%B8%B2%E5%85%A7%E5%AE%B9.md)
 ### Xamarin.Forms
 - [Xamarin.Forms Behavior讓控制項具有額外的行為](https://github.com/BingFengHung/OpenDocuments/blob/main/.NET/Xamarin.Forms/Xamarin.Forms%20Behavior%20%E8%AE%93%E6%8E%A7%E5%88%B6%E9%A0%85%E5%85%B7%E6%9C%89%E9%A1%8D%E5%A4%96%E7%9A%84%E8%A1%8C%E7%82%BA/Xamarin.Forms%20Behavior%20%E8%AE%93%E6%8E%A7%E5%88%B6%E9%A0%85%E5%85%B7%E6%9C%89%E9%A1%8D%E5%A4%96%E7%9A%84%E8%A1%8C%E7%82%BA.md)
-- [Xamarin.Effects 客製化各平台控制項外觀](https://github.com/BingFengHung/OpenDocuments/blob/main/.NET/Xamarin.Forms/Xamarin.Forms%20Effects/Xamarin.Forms%20Effects.md)
+- [Xamarin.Forms Effects 客製化各平台控制項外觀](https://github.com/BingFengHung/OpenDocuments/blob/main/.NET/Xamarin.Forms/Xamarin.Effects%20%E5%AE%A2%E8%A3%BD%E5%8C%96%E5%90%84%E5%B9%B3%E5%8F%B0%E6%8E%A7%E5%88%B6%E9%A0%85%E5%A4%96%E8%A7%80/Xamarin.Effects%20%E5%AE%A2%E8%A3%BD%E5%8C%96%E5%90%84%E5%B9%B3%E5%8F%B0%E6%8E%A7%E5%88%B6%E9%A0%85%E5%A4%96%E8%A7%80.md)
 ### WPF
-- [WPF 使用 OpacityMask 製作圓弧容器](https://github.com/BingFengHung/OpenDocuments/blob/main/.NET/WPF/WPF%20%E5%9C%93%E5%BC%A7%E5%AE%B9%E5%99%A8/WPF%20%E5%9C%93%E5%BC%A7%E5%AE%B9%E5%99%A8.md)
+- [WPF 使用 OpacityMask 製作圓弧容器](https://github.com/BingFengHung/OpenDocuments/blob/main/.NET/WPF/WPF%20%E4%BD%BF%E7%94%A8%20OpacityMask%20%E8%A3%BD%E4%BD%9C%E5%9C%93%E5%BC%A7%E5%AE%B9%E5%99%A8/WPF%20%E4%BD%BF%E7%94%A8%20OpacityMask%20%E8%A3%BD%E4%BD%9C%E5%9C%93%E5%BC%A7%E5%AE%B9%E5%99%A8.md)
 ## JavaScript
 - [JavaScript 建立函式預設值](https://github.com/BingFengHung/OpenDocuments/blob/main/JavaScript/JavaScript%20%E5%BB%BA%E7%AB%8B%E5%87%BD%E5%BC%8F%E9%A0%90%E8%A8%AD%E5%80%BC/JavaScript%20%E5%BB%BA%E7%AB%8B%E5%87%BD%E5%BC%8F%E9%A0%90%E8%A8%AD%E5%80%BC.md)
 ## Python
