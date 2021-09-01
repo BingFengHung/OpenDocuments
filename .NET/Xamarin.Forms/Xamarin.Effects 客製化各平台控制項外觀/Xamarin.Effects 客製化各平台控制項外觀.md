@@ -1,4 +1,4 @@
-# Xamarin.Forms Effects
+# Xamarin.Effects 客製化各平台控制項外觀
 
 Xamarin.Forms 使用者介面會使用目標平台 (Android/iOS) 原生的控制項外觀來呈現，讓 Xamarin.Forms 應用程式能夠為每個平台保留原生的外觀。
 
@@ -55,6 +55,7 @@ RoutingEffect 類別，是代表平台獨立效果，其中包含特定平台的
 
 因此使用起來就會是像下圖 6 所示：
 ![](Images/2021-08-30-20-14-43.png)
+
 圖 6、使用 Effect
 
 各平台效果如下所示：
