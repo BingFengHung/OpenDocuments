@@ -15,7 +15,7 @@
 </Grid>
 ```
 
-![](2021-09-01-09-53-03.png)
+![](Images/2021-09-01-09-53-03.png)
 
 圖 1、Border 直接包含元素
 
@@ -29,7 +29,8 @@
     <Border CornerRadius="10" BorderBrush="Black" BorderThickness="1"/>
 </Grid>
 ```
-![](2021-09-01-09-55-14.png)
+![](Images/2021-09-01-09-55-14.png)
+
 圖 2、外層再使用 Border 覆蓋
 
 ### 作法三：OpacityMask
@@ -39,7 +40,8 @@
     <TextBlock Text="abcdefghijklmnopqrstuvwxyz">
 </Border>
 ```
-![](2021-09-01-09-57-52.png)
+![](Images/2021-09-01-09-57-52.png)
+
 圖 3、直接使用 Border 包含元素
 
 再來就是要介紹本次的主角，`OpacityMask` 的方式，內容物即使有比較長，他還是會讓內容物被外層完美的包覆在容器中，不會讓他超出去。
@@ -57,5 +59,6 @@
     </Grid>
 </Grid>
 ```
-![](2021-09-01-10-11-52.png)
+![](Images/2021-09-01-10-11-52.png)
+
 圖 4、使用 OpacityMask
