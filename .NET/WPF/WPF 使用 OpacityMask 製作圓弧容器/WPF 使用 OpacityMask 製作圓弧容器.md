@@ -15,7 +15,7 @@
 </Grid>
 ```
 
-![](Images/2021-09-01-09-53-03.png)
+![](./Images/2021-09-01-09-53-03.png)
 
 圖 1、Border 直接包含元素
 
@@ -29,7 +29,7 @@
     <Border CornerRadius="10" BorderBrush="Black" BorderThickness="1"/>
 </Grid>
 ```
-![](Images/2021-09-01-09-55-14.png)
+![](./Images/2021-09-01-09-55-14.png)
 
 圖 2、外層再使用 Border 覆蓋
 
@@ -40,7 +40,7 @@
     <TextBlock Text="abcdefghijklmnopqrstuvwxyz">
 </Border>
 ```
-![](Images/2021-09-01-09-57-52.png)
+![](./Images/2021-09-01-09-57-52.png)
 
 圖 3、直接使用 Border 包含元素
 
@@ -59,6 +59,6 @@
     </Grid>
 </Grid>
 ```
-![](Images/2021-09-01-10-11-52.png)
+![](./Images/2021-09-01-10-11-52.png)
 
 圖 4、使用 OpacityMask
